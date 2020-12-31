@@ -1,0 +1,1204 @@
+{
+  "statusCode": 200,
+  "timeStamp": 1609360924,
+  "message": "Ok",
+  "debugInfo": null,
+  "meta": null,
+  "data": {
+    "group": {
+      "group_id": 618,
+      "group_full_name": "іп-94",
+      "group_prefix": "іп",
+      "group_okr": "bachelor",
+      "group_type": "daily",
+      "group_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?g=c5015ba2-7ba6-427a-ba0a-020719c426bb"
+    },
+    "weeks": {
+      "1": {
+        "week_number": 1,
+        "days": {
+          "1": {
+            "day_name": "Понеділок",
+            "day_number": 1,
+            "lessons": [
+              {
+                "lesson_id": "9686",
+                "group_id": "618",
+                "day_number": "1",
+                "day_name": "Понеділок",
+                "lesson_name": "Бази даних",
+                "lesson_full_name": "Бази даних",
+                "lesson_number": "2",
+                "lesson_room": "303-18",
+                "lesson_type": "Лек",
+                "teacher_name": "пос. Іваніщев Б. В.",
+                "lesson_week": "1",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4912",
+                    "teacher_name": "посада Іваніщев Б. В.",
+                    "teacher_full_name": "посада Іваніщев Б. В.",
+                    "teacher_short_name": "пос. Іваніщев Б. В.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=8c838266-75f3-4240-8c46-aaea1dddc946",
+                    "teacher_rating": "1.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "353",
+                    "room_name": "303-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9691",
+                "group_id": "618",
+                "day_number": "1",
+                "day_name": "Понеділок",
+                "lesson_name": "Іноз. мова. Практич. курс іноз. мови-ІІ",
+                "lesson_full_name": "Іноземна мова. Практичний курс іноземної мови-ІІ",
+                "lesson_number": "3",
+                "lesson_room": "337-A-18",
+                "lesson_type": "Прак",
+                "teacher_name": "вик. Борисова М. Є.",
+                "lesson_week": "1",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "5065",
+                    "teacher_name": "старший викладач Борисова Марія Євгеніївна",
+                    "teacher_full_name": "старший викладач Борисова Марія Євгеніївна",
+                    "teacher_short_name": "ст.вик. Борисова М. Є.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=06ee4e98-bb82-4948-be7c-168a6efbb427",
+                    "teacher_rating": "5.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "142",
+                    "room_name": "337-A-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9696",
+                "group_id": "618",
+                "day_number": "1",
+                "day_name": "Понеділок",
+                "lesson_name": "Архітектура комп'ютера",
+                "lesson_full_name": "Архітектура комп'ютера",
+                "lesson_number": "4",
+                "lesson_room": "302-18",
+                "lesson_type": "Лек",
+                "teacher_name": "доц. Ткаченко В. В.",
+                "lesson_week": "1",
+                "time_start": "14:15:00",
+                "time_end": "15:50:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "3289",
+                    "teacher_name": "Ткаченко Валентина Василівна",
+                    "teacher_full_name": "доцент Ткаченко Валентина Василівна",
+                    "teacher_short_name": "доц. Ткаченко В. В.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=8610481f-08e4-4e01-a1f8-19f0b9829ceb",
+                    "teacher_rating": "2.323"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "134",
+                    "room_name": "302-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              }
+            ]
+          },
+          "2": {
+            "day_name": "Вівторок",
+            "day_number": 2,
+            "lessons": [
+              {
+                "lesson_id": "9687",
+                "group_id": "618",
+                "day_number": "2",
+                "day_name": "Вівторок",
+                "lesson_name": "Архітектура комп'ютера",
+                "lesson_full_name": "Архітектура комп'ютера",
+                "lesson_number": "2",
+                "lesson_room": "535-18",
+                "lesson_type": "Лаб",
+                "teacher_name": "пос. Нікольський С. С.",
+                "lesson_week": "1",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "5210",
+                    "teacher_name": "посада Нікольський С С",
+                    "teacher_full_name": "посада Нікольський С С",
+                    "teacher_short_name": "пос. Нікольський С. С.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=cd133ad0-5316-49bf-ab13-6c1503b1fcab",
+                    "teacher_rating": "0.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "141",
+                    "room_name": "535-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9692",
+                "group_id": "618",
+                "day_number": "2",
+                "day_name": "Вівторок",
+                "lesson_name": "Об'єктно-орієнтоване програмування",
+                "lesson_full_name": "Об'єктно-орієнтоване програмування",
+                "lesson_number": "3",
+                "lesson_room": "303-18",
+                "lesson_type": "Лек",
+                "teacher_name": "ст.вик. Порєв В. М.",
+                "lesson_week": "1",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2649",
+                    "teacher_name": "Порєв Віктор Миколайович",
+                    "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+                    "teacher_short_name": "ст.вик. Порєв В. М.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+                    "teacher_rating": "3.576"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "353",
+                    "room_name": "303-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              }
+            ]
+          },
+          "3": {
+            "day_name": "Середа",
+            "day_number": 3,
+            "lessons": [
+              {
+                "lesson_id": "9688",
+                "group_id": "618",
+                "day_number": "3",
+                "day_name": "Середа",
+                "lesson_name": "Моделювання програмного забезпечення",
+                "lesson_full_name": "Компоненти програмної інженерії-1. Моделювання програмного забезпечення",
+                "lesson_number": "2",
+                "lesson_room": "303-18",
+                "lesson_type": "Лек",
+                "teacher_name": "ас. Шемсединов Т. Г.",
+                "lesson_week": "1",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4008",
+                    "teacher_name": "Шемсединов Т. Г.",
+                    "teacher_full_name": "Шемсединов Т. Г.",
+                    "teacher_short_name": "ас. Шемсединов Т. Г.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6a8864a9-4900-4e22-81eb-8d8522d72b78",
+                    "teacher_rating": "3.279"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "353",
+                    "room_name": "303-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9693",
+                "group_id": "618",
+                "day_number": "3",
+                "day_name": "Середа",
+                "lesson_name": "Об'єктно-орієнтоване програмування",
+                "lesson_full_name": "Об'єктно-орієнтоване програмування",
+                "lesson_number": "3",
+                "lesson_room": "536-18",
+                "lesson_type": "Лаб",
+                "teacher_name": "ст.вик. Порєв В. М.",
+                "lesson_week": "1",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2649",
+                    "teacher_name": "Порєв Віктор Миколайович",
+                    "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+                    "teacher_short_name": "ст.вик. Порєв В. М.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+                    "teacher_rating": "3.576"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "137",
+                    "room_name": "536-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9697",
+                "group_id": "618",
+                "day_number": "3",
+                "day_name": "Середа",
+                "lesson_name": "Актуальні проблеми азійських спільнот",
+                "lesson_full_name": "Актуальні проблеми азійських спільнот",
+                "lesson_number": "4",
+                "lesson_room": "122-07",
+                "lesson_type": "Лек",
+                "teacher_name": "проф. Кутуєв П. В.",
+                "lesson_week": "1",
+                "time_start": "14:15:00",
+                "time_end": "15:50:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "1742",
+                    "teacher_name": "Кутуєв Павло Володимирович",
+                    "teacher_full_name": "",
+                    "teacher_short_name": "",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=78221052-807c-454f-96dd-c89c925016e5",
+                    "teacher_rating": "2.317"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "381",
+                    "room_name": "122-07",
+                    "room_latitude": "50.448603",
+                    "room_longitude": "30.457019"
+                  }
+                ]
+              }
+            ]
+          },
+          "4": {
+            "day_name": "Четвер",
+            "day_number": 4,
+            "lessons": [
+              {
+                "lesson_id": "9684",
+                "group_id": "618",
+                "day_number": "4",
+                "day_name": "Четвер",
+                "lesson_name": "Теорія ймовірностей",
+                "lesson_full_name": "Теорія ймовірностей",
+                "lesson_number": "1",
+                "lesson_room": "507-18",
+                "lesson_type": "Прак",
+                "teacher_name": "доц. Марковський О. П.",
+                "lesson_week": "1",
+                "time_start": "08:30:00",
+                "time_end": "10:05:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2011",
+                    "teacher_name": "Марковський Олександр Петрович",
+                    "teacher_full_name": "доцент Марковський Олександр Петрович",
+                    "teacher_short_name": "доц. Марковський О. П.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=c26d8800-4b42-4ade-9811-a03bc4ad6cb7",
+                    "teacher_rating": "3.172"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "138",
+                    "room_name": "507-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9689",
+                "group_id": "618",
+                "day_number": "4",
+                "day_name": "Четвер",
+                "lesson_name": "Теорія ймовірностей",
+                "lesson_full_name": "Теорія ймовірностей",
+                "lesson_number": "2",
+                "lesson_room": "305-18",
+                "lesson_type": "Лек",
+                "teacher_name": "доц. Марковський О. П.",
+                "lesson_week": "1",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2011",
+                    "teacher_name": "Марковський Олександр Петрович",
+                    "teacher_full_name": "доцент Марковський Олександр Петрович",
+                    "teacher_short_name": "доц. Марковський О. П.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=c26d8800-4b42-4ade-9811-a03bc4ad6cb7",
+                    "teacher_rating": "3.172"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "139",
+                    "room_name": "305-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9694",
+                "group_id": "618",
+                "day_number": "4",
+                "day_name": "Четвер",
+                "lesson_name": "Фізичне виховання",
+                "lesson_full_name": "Фізичне виховання",
+                "lesson_number": "3",
+                "lesson_room": "",
+                "lesson_type": "",
+                "teacher_name": "",
+                "lesson_week": "1",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [],
+                "rooms": []
+              }
+            ]
+          },
+          "5": {
+            "day_name": "П’ятниця",
+            "day_number": 5,
+            "lessons": [
+              {
+                "lesson_id": "9685",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Вступ до філософії",
+                "lesson_full_name": "Вступ до філософії",
+                "lesson_number": "1",
+                "lesson_room": "304-18",
+                "lesson_type": "Лек",
+                "teacher_name": "ст.вик. Бабіна С. І.",
+                "lesson_week": "1",
+                "time_start": "08:30:00",
+                "time_end": "10:05:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4984",
+                    "teacher_name": "старший викладач Бабіна Світлана Іванівна",
+                    "teacher_full_name": "старший викладач Бабіна Світлана Іванівна",
+                    "teacher_short_name": "ст.вик. Бабіна С. І.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=a6614963-a7bb-4cb8-9078-04772b6401f4",
+                    "teacher_rating": "3.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "338",
+                    "room_name": "304-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9690",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Logic",
+                "lesson_full_name": "Logic",
+                "lesson_number": "2",
+                "lesson_room": "306-18",
+                "lesson_type": "Лек",
+                "teacher_name": "вик. Казаков М. А.",
+                "lesson_week": "1",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4648",
+                    "teacher_name": "викладач Казаков Мстислав Андрійович",
+                    "teacher_full_name": "викладач Казаков Мстислав Андрійович",
+                    "teacher_short_name": "вик. Казаков М. А.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=ab7f32bf-d71d-480e-bef2-776d9fe56ce6",
+                    "teacher_rating": "4.600"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "337",
+                    "room_name": "306-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9695",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Social Psychology",
+                "lesson_full_name": "Social Psychology",
+                "lesson_number": "3",
+                "lesson_room": "207-18",
+                "lesson_type": "Прак",
+                "teacher_name": "вик. Оніпко З. С.",
+                "lesson_week": "1",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "5208",
+                    "teacher_name": "викладач Оніпко Зоряна Сергіївна",
+                    "teacher_full_name": "викладач Оніпко Зоряна Сергіївна",
+                    "teacher_short_name": "вик. Оніпко З. С.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=030e21a6-4f60-4243-bf67-7c8bbb6697ee",
+                    "teacher_rating": "0.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "350",
+                    "room_name": "207-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9698",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Соціальна психологія",
+                "lesson_full_name": "Соціальна психологія",
+                "lesson_number": "4",
+                "lesson_room": "302-18,304-18",
+                "lesson_type": "Лек",
+                "teacher_name": "ст.вик. Піхорович В. Д., вик. Оніпко З. С.",
+                "lesson_week": "1",
+                "time_start": "14:15:00",
+                "time_end": "15:50:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2562",
+                    "teacher_name": "Піхорович Василь Дмитрович",
+                    "teacher_full_name": "старший викладач Піхорович Василь Дмитрович",
+                    "teacher_short_name": "ст.вик. Піхорович В. Д.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=1dd0dc3a-96af-4e01-8c85-10e4b9b50d65",
+                    "teacher_rating": "3.230"
+                  },
+                  {
+                    "teacher_id": "5208",
+                    "teacher_name": "викладач Оніпко Зоряна Сергіївна",
+                    "teacher_full_name": "викладач Оніпко Зоряна Сергіївна",
+                    "teacher_short_name": "вик. Оніпко З. С.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=030e21a6-4f60-4243-bf67-7c8bbb6697ee",
+                    "teacher_rating": "0.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "134",
+                    "room_name": "302-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  },
+                  {
+                    "room_id": "338",
+                    "room_name": "304-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9699",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Психологія",
+                "lesson_full_name": "Психологія",
+                "lesson_number": "5",
+                "lesson_room": "",
+                "lesson_type": "Лек",
+                "teacher_name": "доц. Кононець М. О., зав.каф. Волянюк Н. Ю.",
+                "lesson_week": "1",
+                "time_start": "16:10:00",
+                "time_end": "17:45:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "1522",
+                    "teacher_name": "Кононець Марія Олександрівна",
+                    "teacher_full_name": "асистент Кононець Марія Олександрівна",
+                    "teacher_short_name": "ас. Кононець М. О.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2d2929a1-bd3d-446c-943e-8dd8b9c5ccb7",
+                    "teacher_rating": "3.782"
+                  },
+                  {
+                    "teacher_id": "538",
+                    "teacher_name": "Волянюк Наталія Юріївна",
+                    "teacher_full_name": "професор Волянюк Наталія Юріївна",
+                    "teacher_short_name": "проф. Волянюк Н. Ю.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=5121774e-3a50-48ff-bb28-d0e8f995d769",
+                    "teacher_rating": "3.555"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "143",
+                    "room_name": "-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  },
+                  {
+                    "room_id": "143",
+                    "room_name": "-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              }
+            ]
+          },
+          "6": {
+            "day_name": "Субота",
+            "day_number": 6,
+            "lessons": []
+          }
+        }
+      },
+      "2": {
+        "week_number": 2,
+        "days": {
+          "1": {
+            "day_name": "Понеділок",
+            "day_number": 1,
+            "lessons": [
+              {
+                "lesson_id": "9702",
+                "group_id": "618",
+                "day_number": "1",
+                "day_name": "Понеділок",
+                "lesson_name": "Бази даних",
+                "lesson_full_name": "Бази даних",
+                "lesson_number": "2",
+                "lesson_room": "303-18",
+                "lesson_type": "Лек",
+                "teacher_name": "пос. Іваніщев Б. В.",
+                "lesson_week": "2",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4912",
+                    "teacher_name": "посада Іваніщев Б. В.",
+                    "teacher_full_name": "посада Іваніщев Б. В.",
+                    "teacher_short_name": "пос. Іваніщев Б. В.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=8c838266-75f3-4240-8c46-aaea1dddc946",
+                    "teacher_rating": "1.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "353",
+                    "room_name": "303-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9707",
+                "group_id": "618",
+                "day_number": "1",
+                "day_name": "Понеділок",
+                "lesson_name": "Іноз. мова. Практич. курс іноз. мови-ІІ",
+                "lesson_full_name": "Іноземна мова. Практичний курс іноземної мови-ІІ",
+                "lesson_number": "3",
+                "lesson_room": "337-A-18",
+                "lesson_type": "Прак",
+                "teacher_name": "вик. Борисова М. Є.",
+                "lesson_week": "2",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "5065",
+                    "teacher_name": "старший викладач Борисова Марія Євгеніївна",
+                    "teacher_full_name": "старший викладач Борисова Марія Євгеніївна",
+                    "teacher_short_name": "ст.вик. Борисова М. Є.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=06ee4e98-bb82-4948-be7c-168a6efbb427",
+                    "teacher_rating": "5.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "142",
+                    "room_name": "337-A-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9712",
+                "group_id": "618",
+                "day_number": "1",
+                "day_name": "Понеділок",
+                "lesson_name": "Архітектура комп'ютера",
+                "lesson_full_name": "Архітектура комп'ютера",
+                "lesson_number": "4",
+                "lesson_room": "302-18",
+                "lesson_type": "Лек",
+                "teacher_name": "доц. Ткаченко В. В.",
+                "lesson_week": "2",
+                "time_start": "14:15:00",
+                "time_end": "15:50:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "3289",
+                    "teacher_name": "Ткаченко Валентина Василівна",
+                    "teacher_full_name": "доцент Ткаченко Валентина Василівна",
+                    "teacher_short_name": "доц. Ткаченко В. В.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=8610481f-08e4-4e01-a1f8-19f0b9829ceb",
+                    "teacher_rating": "2.323"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "134",
+                    "room_name": "302-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              }
+            ]
+          },
+          "2": {
+            "day_name": "Вівторок",
+            "day_number": 2,
+            "lessons": [
+              {
+                "lesson_id": "9703",
+                "group_id": "618",
+                "day_number": "2",
+                "day_name": "Вівторок",
+                "lesson_name": "Бази даних",
+                "lesson_full_name": "Бази даних",
+                "lesson_number": "2",
+                "lesson_room": "514-18",
+                "lesson_type": "Лаб",
+                "teacher_name": "пос. Іваніщев Б. В.",
+                "lesson_week": "2",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4912",
+                    "teacher_name": "посада Іваніщев Б. В.",
+                    "teacher_full_name": "посада Іваніщев Б. В.",
+                    "teacher_short_name": "пос. Іваніщев Б. В.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=8c838266-75f3-4240-8c46-aaea1dddc946",
+                    "teacher_rating": "1.000"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "378",
+                    "room_name": "514-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9708",
+                "group_id": "618",
+                "day_number": "2",
+                "day_name": "Вівторок",
+                "lesson_name": "Об'єктно-орієнтоване програмування",
+                "lesson_full_name": "Об'єктно-орієнтоване програмування",
+                "lesson_number": "3",
+                "lesson_room": "303-18",
+                "lesson_type": "Лек",
+                "teacher_name": "ст.вик. Порєв В. М.",
+                "lesson_week": "2",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2649",
+                    "teacher_name": "Порєв Віктор Миколайович",
+                    "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+                    "teacher_short_name": "ст.вик. Порєв В. М.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+                    "teacher_rating": "3.576"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "353",
+                    "room_name": "303-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              }
+            ]
+          },
+          "3": {
+            "day_name": "Середа",
+            "day_number": 3,
+            "lessons": [
+              {
+                "lesson_id": "9704",
+                "group_id": "618",
+                "day_number": "3",
+                "day_name": "Середа",
+                "lesson_name": "Моделювання програмного забезпечення",
+                "lesson_full_name": "Компоненти програмної інженерії-1. Моделювання програмного забезпечення",
+                "lesson_number": "2",
+                "lesson_room": "303-18",
+                "lesson_type": "Лек",
+                "teacher_name": "ас. Шемсединов Т. Г.",
+                "lesson_week": "2",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4008",
+                    "teacher_name": "Шемсединов Т. Г.",
+                    "teacher_full_name": "Шемсединов Т. Г.",
+                    "teacher_short_name": "ас. Шемсединов Т. Г.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6a8864a9-4900-4e22-81eb-8d8522d72b78",
+                    "teacher_rating": "3.279"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "353",
+                    "room_name": "303-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9709",
+                "group_id": "618",
+                "day_number": "3",
+                "day_name": "Середа",
+                "lesson_name": "Об'єктно-орієнтоване програмування",
+                "lesson_full_name": "Об'єктно-орієнтоване програмування",
+                "lesson_number": "3",
+                "lesson_room": "536-18",
+                "lesson_type": "Лаб",
+                "teacher_name": "ст.вик. Порєв В. М.",
+                "lesson_week": "2",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2649",
+                    "teacher_name": "Порєв Віктор Миколайович",
+                    "teacher_full_name": "старший викладач Порєв Віктор Миколайович",
+                    "teacher_short_name": "ст.вик. Порєв В. М.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=33ec692b-1f64-470b-b7b8-9c2d1dfa73de",
+                    "teacher_rating": "3.576"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "137",
+                    "room_name": "536-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9713",
+                "group_id": "618",
+                "day_number": "3",
+                "day_name": "Середа",
+                "lesson_name": "Актуальні проблеми азійських спільнот",
+                "lesson_full_name": "Актуальні проблеми азійських спільнот",
+                "lesson_number": "4",
+                "lesson_room": "122-07",
+                "lesson_type": "Прак",
+                "teacher_name": "вик. Казьмірова О. М.",
+                "lesson_week": "2",
+                "time_start": "14:15:00",
+                "time_end": "15:50:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "3922",
+                    "teacher_name": "Казьмірова О О",
+                    "teacher_full_name": "Казьмірова О О",
+                    "teacher_short_name": "вик. Казьмірова О. О.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2f181b39-512d-45cb-ac77-4fd96034f54b",
+                    "teacher_rating": "3.716"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "381",
+                    "room_name": "122-07",
+                    "room_latitude": "50.448603",
+                    "room_longitude": "30.457019"
+                  }
+                ]
+              }
+            ]
+          },
+          "4": {
+            "day_name": "Четвер",
+            "day_number": 4,
+            "lessons": [
+              {
+                "lesson_id": "9700",
+                "group_id": "618",
+                "day_number": "4",
+                "day_name": "Четвер",
+                "lesson_name": "Моделювання програмного забезпечення",
+                "lesson_full_name": "Компоненти програмної інженерії-1. Моделювання програмного забезпечення",
+                "lesson_number": "1",
+                "lesson_room": "",
+                "lesson_type": "Лаб",
+                "teacher_name": "ас. Шемсединов Т. Г.",
+                "lesson_week": "2",
+                "time_start": "08:30:00",
+                "time_end": "10:05:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "4008",
+                    "teacher_name": "Шемсединов Т. Г.",
+                    "teacher_full_name": "Шемсединов Т. Г.",
+                    "teacher_short_name": "ас. Шемсединов Т. Г.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=6a8864a9-4900-4e22-81eb-8d8522d72b78",
+                    "teacher_rating": "3.279"
+                  }
+                ],
+                "rooms": []
+              },
+              {
+                "lesson_id": "9705",
+                "group_id": "618",
+                "day_number": "4",
+                "day_name": "Четвер",
+                "lesson_name": "Теорія ймовірностей",
+                "lesson_full_name": "Теорія ймовірностей",
+                "lesson_number": "2",
+                "lesson_room": "305-18",
+                "lesson_type": "Лек",
+                "teacher_name": "доц. Марковський О. П.",
+                "lesson_week": "2",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2011",
+                    "teacher_name": "Марковський Олександр Петрович",
+                    "teacher_full_name": "доцент Марковський Олександр Петрович",
+                    "teacher_short_name": "доц. Марковський О. П.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=c26d8800-4b42-4ade-9811-a03bc4ad6cb7",
+                    "teacher_rating": "3.172"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "139",
+                    "room_name": "305-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9710",
+                "group_id": "618",
+                "day_number": "4",
+                "day_name": "Четвер",
+                "lesson_name": "Фізичне виховання",
+                "lesson_full_name": "Фізичне виховання",
+                "lesson_number": "3",
+                "lesson_room": "",
+                "lesson_type": "",
+                "teacher_name": "",
+                "lesson_week": "2",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [],
+                "rooms": []
+              }
+            ]
+          },
+          "5": {
+            "day_name": "П’ятниця",
+            "day_number": 5,
+            "lessons": [
+              {
+                "lesson_id": "9701",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Вступ до філософії",
+                "lesson_full_name": "Вступ до філософії",
+                "lesson_number": "1",
+                "lesson_room": "203-18",
+                "lesson_type": "Прак",
+                "teacher_name": "вик. Процко С. А.",
+                "lesson_week": "2",
+                "time_start": "08:30:00",
+                "time_end": "10:05:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "2714",
+                    "teacher_name": "Процко Світлана Анатоліївна",
+                    "teacher_full_name": "викладач Процко Світлана Анатоліївна",
+                    "teacher_short_name": "вик. Процко С. А.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=f72a0f5b-f39c-4737-b1f3-674578fcfc38",
+                    "teacher_rating": "3.150"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "346",
+                    "room_name": "203-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9706",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Logic",
+                "lesson_full_name": "Logic",
+                "lesson_number": "2",
+                "lesson_room": "207-18",
+                "lesson_type": "Прак",
+                "teacher_name": "доц. Колотило М. О.",
+                "lesson_week": "2",
+                "time_start": "10:25:00",
+                "time_end": "12:00:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "1499",
+                    "teacher_name": "Колотило Мар'яна Олексіївна",
+                    "teacher_full_name": "викладач Колотило Мар'яна Олексіївна",
+                    "teacher_short_name": "вик. Колотило М. О.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=d74532cc-7077-4648-b52e-fd0f76400d36",
+                    "teacher_rating": "4.251"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "350",
+                    "room_name": "207-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9711",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Social Psychology",
+                "lesson_full_name": "Social Psychology",
+                "lesson_number": "3",
+                "lesson_room": "209а-18",
+                "lesson_type": "Лек",
+                "teacher_name": "проф. Винославська О. В.",
+                "lesson_week": "2",
+                "time_start": "12:20:00",
+                "time_end": "13:55:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "476",
+                    "teacher_name": "Винославська Олена Василівна",
+                    "teacher_full_name": "зав.кафедрою Винославська Олена Василівна",
+                    "teacher_short_name": "зав.каф. Винославська О. В.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=5364df42-ccc8-49b2-ab79-f45071e00e47",
+                    "teacher_rating": "3.318"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "335",
+                    "room_name": "209а-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9714",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Соціальна психологія",
+                "lesson_full_name": "Соціальна психологія",
+                "lesson_number": "4",
+                "lesson_room": "231-18,304-18",
+                "lesson_type": "Прак",
+                "teacher_name": "доц. Колотило М. О., доц. Блохіна І. О.",
+                "lesson_week": "2",
+                "time_start": "14:15:00",
+                "time_end": "15:50:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "1499",
+                    "teacher_name": "Колотило Мар'яна Олексіївна",
+                    "teacher_full_name": "викладач Колотило Мар'яна Олексіївна",
+                    "teacher_short_name": "вик. Колотило М. О.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=d74532cc-7077-4648-b52e-fd0f76400d36",
+                    "teacher_rating": "4.251"
+                  },
+                  {
+                    "teacher_id": "242",
+                    "teacher_name": "Блохіна Ірина Олександрівна",
+                    "teacher_full_name": "асистент Блохіна Ірина Олександрівна",
+                    "teacher_short_name": "ас. Блохіна І. О.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=56f1738f-0bda-4656-b035-b6cc949f9a0e",
+                    "teacher_rating": "3.425"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "345",
+                    "room_name": "231-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  },
+                  {
+                    "room_id": "338",
+                    "room_name": "304-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              },
+              {
+                "lesson_id": "9715",
+                "group_id": "618",
+                "day_number": "5",
+                "day_name": "П’ятниця",
+                "lesson_name": "Психологія",
+                "lesson_full_name": "Психологія",
+                "lesson_number": "5",
+                "lesson_room": "",
+                "lesson_type": "Прак",
+                "teacher_name": "доц. Блохіна І. О., зав.каф. Волянюк Н. Ю.",
+                "lesson_week": "2",
+                "time_start": "16:10:00",
+                "time_end": "17:45:00",
+                "rate": "1",
+                "teachers": [
+                  {
+                    "teacher_id": "242",
+                    "teacher_name": "Блохіна Ірина Олександрівна",
+                    "teacher_full_name": "асистент Блохіна Ірина Олександрівна",
+                    "teacher_short_name": "ас. Блохіна І. О.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=56f1738f-0bda-4656-b035-b6cc949f9a0e",
+                    "teacher_rating": "3.425"
+                  },
+                  {
+                    "teacher_id": "538",
+                    "teacher_name": "Волянюк Наталія Юріївна",
+                    "teacher_full_name": "професор Волянюк Наталія Юріївна",
+                    "teacher_short_name": "проф. Волянюк Н. Ю.",
+                    "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=5121774e-3a50-48ff-bb28-d0e8f995d769",
+                    "teacher_rating": "3.555"
+                  }
+                ],
+                "rooms": [
+                  {
+                    "room_id": "143",
+                    "room_name": "-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  },
+                  {
+                    "room_id": "143",
+                    "room_name": "-18",
+                    "room_latitude": "50.447021",
+                    "room_longitude": "30.456021"
+                  }
+                ]
+              }
+            ]
+          },
+          "6": {
+            "day_name": "Субота",
+            "day_number": 6,
+            "lessons": []
+          }
+        }
+      }
+    }
+  }
+}
